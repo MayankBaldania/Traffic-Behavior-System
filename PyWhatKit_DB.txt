@@ -1,0 +1,36 @@
+Date: 28/9/2023
+Time: 14:22
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Shaduvaswani Road
+--------------------
+Date: 13/10/2023
+Time: 13:50
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Indira Circle
+--------------------
+Date: 13/10/2023
+Time: 13:58
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Madhapar Chowk
+--------------------
+Date: 20/10/2023
+Time: 13:16
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Shaduvaswani Road
+--------------------
+Date: 20/10/2023
+Time: 13:19
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Shaduvaswani Road
+--------------------
+Date: 20/10/2023
+Time: 13:21
+Phone Number: +919106626195
+Image: D:/Traffic/Accident/Code/YOLO/darkflow/screenshot.png
+Caption: Accident Occured at Indira Circle
+--------------------
